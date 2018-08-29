@@ -1,0 +1,1063 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ed640bb5-6e30-4915-b417-d88cb2cd7b61" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/LAL$elements.coverage" NAME="elements Coverage Results" MODIFIED="1525609746667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAL/tools" />
+    <SUITE FILE_PATH="coverage/LAL$acs.coverage" NAME="acs Coverage Results" MODIFIED="1524794190375" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAL/spiders" />
+    <SUITE FILE_PATH="coverage/LAL$sel_acs.coverage" NAME="sel_acs Coverage Results" MODIFIED="1524827070855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/LAL$ieee.coverage" NAME="ieee Coverage Results" MODIFIED="1525252726726" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAL/spiders" />
+    <SUITE FILE_PATH="coverage/LAL$run.coverage" NAME="run Coverage Results" MODIFIED="1526312887282" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAL" />
+    <SUITE FILE_PATH="coverage/LAL$score.coverage" NAME="score Coverage Results" MODIFIED="1526364918842" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAL/tools" />
+    <SUITE FILE_PATH="coverage/LAL$tools.coverage" NAME="tools Coverage Results" MODIFIED="1526197952628" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAL/tools" />
+    <SUITE FILE_PATH="coverage/LAL$main.coverage" NAME="main Coverage Results" MODIFIED="1526279401598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LAL$GoogleScholar__1_.coverage" NAME="GoogleScholar (1) Coverage Results" MODIFIED="1524576180320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/LAL$GoogleScholar.coverage" NAME="GoogleScholar Coverage Results" MODIFIED="1524539735657" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LAL/spiders" />
+    <SUITE FILE_PATH="coverage/LAL$gep_proxy_ip.coverage" NAME="gep_proxy_ip Coverage Results" MODIFIED="1524586494283" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+    <SUITE FILE_PATH="coverage/LAL$glgoo.coverage" NAME="glgoo Coverage Results" MODIFIED="1524652580746" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/utils" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="ip_proxy.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAL/tools/ip_proxy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1320">
+              <caret line="66" column="24" lean-forward="false" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="pipelines.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LAL/pipelines.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aps.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAL/spiders/aps.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="12" column="110" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="12" selection-end-column="110" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="aip.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAL/spiders/aip.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="500">
+              <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="32" selection-end-column="40" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="iop.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAL/spiders/iop.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="nature.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAL/spiders/nature.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="740">
+              <caret line="42" column="47" lean-forward="false" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="osa.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAL/spiders/osa.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="rsc.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAL/spiders/rsc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1620">
+              <caret line="81" column="32" lean-forward="false" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+              <folding>
+                <element signature="e#24#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="settings.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAL/settings.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="680">
+              <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="middlewares.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LAL/middlewares.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="400">
+              <caret line="126" column="26" lean-forward="false" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>.gs_res_ccl_mid</find>
+      <find>3113</find>
+      <find>https://pyopenssl.org</find>
+      <find>ssl3_get_record</find>
+      <find>abs_img_url</find>
+      <find>iopitem</find>
+      <find>IndexError</find>
+      <find>https://pubs.acs.org/action/doSearch?</find>
+      <find>https://aip.scitation.org/action/doSearch</find>
+      <find>http://pubs.rsc.org/en/results?searchtext=</find>
+      <find>数据库中没有ip了，重新下载新的ip</find>
+      <find>ERROR</find>
+      <find>数据库中没有ip了</find>
+      <find>'https://180.155.134.18:29056'</find>
+      <find>140.250.134.145:33409</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LAL/spiders/GoogleScholar.py" />
+        <option value="$PROJECT_DIR$/utils/googlescholar.txt" />
+        <option value="$PROJECT_DIR$/utils/glgoo.json" />
+        <option value="$PROJECT_DIR$/utils/glgoo.txt" />
+        <option value="$PROJECT_DIR$/utils/glgoo.py" />
+        <option value="$PROJECT_DIR$/utils/GoogleScholar.py" />
+        <option value="$PROJECT_DIR$/utils/acs_coolies.txt" />
+        <option value="$PROJECT_DIR$/utils/acs_splash.py" />
+        <option value="$PROJECT_DIR$/utils/sel_acs.py" />
+        <option value="$PROJECT_DIR$/utils/text.html" />
+        <option value="$PROJECT_DIR$/LAL/spiders/ieee.py" />
+        <option value="$PROJECT_DIR$/LAL/results/aps.json" />
+        <option value="$PROJECT_DIR$/utils/gep_proxy_ip.py" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/LAL/tools/elements.py" />
+        <option value="$PROJECT_DIR$/LAL/items.py" />
+        <option value="$PROJECT_DIR$/LAL/pipelines.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/aps.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/iop.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/osa.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/science.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/nature.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/scidir.py" />
+        <option value="$PROJECT_DIR$/LAL/tools/tools.py" />
+        <option value="$PROJECT_DIR$/LAL/middlewares.py" />
+        <option value="$PROJECT_DIR$/main.py" />
+        <option value="$PROJECT_DIR$/LAL/bm25model/title.json" />
+        <option value="$PROJECT_DIR$/LAL/spiders/aip.py" />
+        <option value="$PROJECT_DIR$/LAL/settings.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/springer.py" />
+        <option value="$PROJECT_DIR$/LAL/run.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/acs.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/rsc.py" />
+        <option value="$PROJECT_DIR$/LAL/spiders/wiley.py" />
+        <option value="$PROJECT_DIR$/LAL/tools/score.py" />
+        <option value="$PROJECT_DIR$/LAL/tools/ip_proxy.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="194" />
+    <option name="y" value="242" />
+    <option name="width" value="792" />
+    <option name="height" value="466" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="LAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAL" type="462c0819:PsiDirectoryNode" />
+              <item name="LAL" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAL" type="462c0819:PsiDirectoryNode" />
+              <item name="LAL" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LAL" type="462c0819:PsiDirectoryNode" />
+              <item name="LAL" type="462c0819:PsiDirectoryNode" />
+              <item name="tools" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+            <path>
+              <item name="LAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.0 virtualenv at D:\03-CS\env\project &gt;" type="70bed36:NamedLibraryElementNode" />
+            </path>
+            <path>
+              <item name="LAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.0 virtualenv at D:\03-CS\env\project &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.0 virtualenv at D:\03-CS\env\project &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LAL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+              <item name="&lt; Python 3.6.0 virtualenv at D:\03-CS\env\project &gt;" type="70bed36:NamedLibraryElementNode" />
+              <item name="site-packages" type="462c0819:PsiDirectoryNode" />
+              <item name="scrapy" type="462c0819:PsiDirectoryNode" />
+              <item name="downloadermiddlewares" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../spider_case/wechat" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="PyDebuggerOptionsProvider">
+    <option name="myAttachToSubprocess" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.score">
+    <configuration name="elements" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAL/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LAL" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAL/tools/elements.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LAL" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAL" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LAL" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAL/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="score" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAL/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LAL" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAL/tools/score.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="tools" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LAL/tools" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="LAL" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LAL/tools/tools.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Python.main" />
+      <item index="1" class="java.lang.String" itemvalue="Python.elements" />
+      <item index="2" class="java.lang.String" itemvalue="Python.run" />
+      <item index="3" class="java.lang.String" itemvalue="Python.tools" />
+      <item index="4" class="java.lang.String" itemvalue="Python.score" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.score" />
+        <item index="1" class="java.lang.String" itemvalue="Python.run" />
+        <item index="2" class="java.lang.String" itemvalue="Python.main" />
+        <item index="3" class="java.lang.String" itemvalue="Python.tools" />
+        <item index="4" class="java.lang.String" itemvalue="Python.elements" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed640bb5-6e30-4915-b417-d88cb2cd7b61" name="Default" comment="" />
+      <created>1524538908888</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1524538908888</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1732224" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.38134205" sideWeight="0.5030257" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.18330605" sideWeight="0.4969743" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44680852" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23404256" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26350245" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/GoogleScholar.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/GoogleScholar.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/GoogleScholar.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/springer.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/sel_acs.py</url>
+          <line>10</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/sel_acs.py</url>
+          <line>22</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/utils/sel_acs.py</url>
+          <line>20</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/rsc.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="127" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/rsc.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="150" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/wiley.py</url>
+          <line>28</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/wiley.py</url>
+          <line>37</line>
+          <option name="timeStamp" value="155" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/aip.py</url>
+          <line>39</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/science.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/acs.py</url>
+          <line>53</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/rsc.py</url>
+          <line>104</line>
+          <option name="timeStamp" value="282" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/scidir.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="285" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/scidir.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="288" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/science.py</url>
+          <line>65</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/springer.py</url>
+          <line>88</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/wiley.py</url>
+          <line>92</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/wiley.py</url>
+          <line>21</line>
+          <option name="timeStamp" value="296" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/spiders/acs.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="334" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/tools.py</url>
+          <line>43</line>
+          <option name="timeStamp" value="341" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/tools.py</url>
+          <line>38</line>
+          <option name="timeStamp" value="342" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/tools.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="343" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/ip_proxy.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="344" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/ip_proxy.py</url>
+          <line>81</line>
+          <option name="timeStamp" value="346" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/ip_proxy.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="347" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/ip_proxy.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="348" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/score.py</url>
+          <line>45</line>
+          <option name="timeStamp" value="349" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/score.py</url>
+          <line>42</line>
+          <option name="timeStamp" value="350" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/score.py</url>
+          <line>32</line>
+          <option name="timeStamp" value="352" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/score.py</url>
+          <line>48</line>
+          <option name="timeStamp" value="353" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/score.py</url>
+          <line>80</line>
+          <option name="timeStamp" value="354" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/score.py</url>
+          <line>60</line>
+          <option name="timeStamp" value="356" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/LAL/tools/score.py</url>
+          <line>85</line>
+          <option name="timeStamp" value="357" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="358" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/twisted/internet/task.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="671" column="0" lean-forward="false" selection-start-line="671" selection-start-column="0" selection-end-line="671" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/twisted/internet/defer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="58">
+          <caret line="1385" column="0" lean-forward="false" selection-start-line="1385" selection-start-column="0" selection-end-line="1385" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/selenium/webdriver/remote/webdriver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="606" column="8" lean-forward="false" selection-start-line="606" selection-start-column="8" selection-end-line="606" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/ieee.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="202">
+          <caret line="14" column="63" lean-forward="false" selection-start-line="14" selection-start-column="63" selection-end-line="14" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/results/aps.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="0" column="1513" lean-forward="false" selection-start-line="0" selection-start-column="1513" selection-end-line="0" selection-end-column="1513" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/log.txt" />
+    <entry file="file://$PROJECT_DIR$/LAL/items.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/results/nature.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-280">
+          <caret line="19" column="21" lean-forward="false" selection-start-line="19" selection-start-column="21" selection-end-line="19" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/parsel/selector.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1772">
+          <caret line="85" column="8" lean-forward="false" selection-start-line="85" selection-start-column="8" selection-end-line="85" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/results/springer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons/re.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5040">
+          <caret line="252" column="8" lean-forward="false" selection-start-line="252" selection-start-column="8" selection-end-line="252" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/pydispatch/dispatcher.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1424">
+          <caret line="72" column="4" lean-forward="false" selection-start-line="72" selection-start-column="4" selection-end-line="72" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/downloadermiddlewares/retry.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="47" column="36" lean-forward="false" selection-start-line="47" selection-start-column="36" selection-end-line="47" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/http/request/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/urllib/request.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5280">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3/six/moves/urllib/request.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="5" column="16" lean-forward="false" selection-start-line="5" selection-start-column="16" selection-end-line="5" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_HOME_DIR$/helpers/typeshed/third_party/3/six/moves/urllib/__init__.pyi">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/downloadermiddlewares/httpproxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-940">
+          <caret line="1" column="18" lean-forward="true" selection-start-line="1" selection-start-column="18" selection-end-line="1" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/scrapy/core/downloader/middleware.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="73">
+          <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/tools/tools.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="35" column="0" lean-forward="false" selection-start-line="35" selection-start-column="2" selection-end-line="45" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/results/acs.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/results/osa.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/pymongo/collection.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3284">
+          <caret line="1228" column="8" lean-forward="false" selection-start-line="1228" selection-start-column="8" selection-end-line="1228" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/nltk/corpus/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="193" column="0" lean-forward="false" selection-start-line="193" selection-start-column="0" selection-end-line="193" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/bm25model/abstract.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/bm25model/keywords.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/bm25model/title.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="319248" lean-forward="false" selection-start-line="0" selection-start-column="319248" selection-end-line="0" selection-end-column="319248" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/bm25model/title.pickle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="80">
+          <caret line="6" column="11" lean-forward="false" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/tools/elements.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="69" column="29" lean-forward="false" selection-start-line="69" selection-start-column="29" selection-end-line="69" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="310" column="0" lean-forward="false" selection-start-line="310" selection-start-column="0" selection-end-line="310" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/acs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1160">
+          <caret line="79" column="8" lean-forward="false" selection-start-line="79" selection-start-column="8" selection-end-line="79" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/wiley.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="31" column="40" lean-forward="false" selection-start-line="31" selection-start-column="40" selection-end-line="31" selection-end-column="40" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/springer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="10" selection-end-line="31" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/science.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/scidir.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="20">
+          <caret line="11" column="89" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="89" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/gensim/summarization/bm25.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2560">
+          <caret line="130" column="8" lean-forward="false" selection-start-line="130" selection-start-column="8" selection-end-line="130" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/mongo_export/Ag.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../Lib/site-packages/nltk/tokenize/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="112" column="4" lean-forward="false" selection-start-line="112" selection-start-column="4" selection-end-line="112" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/tools/score.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="24" column="46" lean-forward="false" selection-start-line="24" selection-start-column="46" selection-end-line="24" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#14#0" expanded="false" />
+            <element signature="e#3393#7252#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/aps.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="110" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="12" selection-end-column="110" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/aip.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="25" column="8" lean-forward="false" selection-start-line="25" selection-start-column="10" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/iop.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="12" column="5" lean-forward="false" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/nature.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="740">
+          <caret line="42" column="47" lean-forward="false" selection-start-line="42" selection-start-column="47" selection-end-line="42" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/osa.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/spiders/rsc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="81" column="32" lean-forward="false" selection-start-line="81" selection-start-column="32" selection-end-line="81" selection-end-column="32" />
+          <folding>
+            <element signature="e#24#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/settings.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="0" selection-end-line="34" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/tools/ip_proxy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1320">
+          <caret line="66" column="24" lean-forward="false" selection-start-line="66" selection-start-column="24" selection-end-line="66" selection-end-column="24" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/middlewares.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="126" column="26" lean-forward="false" selection-start-line="126" selection-start-column="26" selection-end-line="126" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LAL/pipelines.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="23" column="8" lean-forward="false" selection-start-line="23" selection-start-column="8" selection-end-line="24" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
