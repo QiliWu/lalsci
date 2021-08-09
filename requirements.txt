@@ -24,7 +24,7 @@ PyDispatcher==2.0.5
 pyOpenSSL==18.0.0
 pytesseract==0.2.4
 python-dateutil==2.7.3
-pywin32==223
+pywin32==301
 queuelib==1.5.0
 redis==2.10.6
 requests==2.19.1
